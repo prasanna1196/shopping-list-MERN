@@ -1,0 +1,19 @@
+{
+  "name": "shopping-list-mern",
+  "version": "1.0.0",
+  "description": "Shopping cart created with MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
